@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Micro-SaaS",
+  "description": "A high-performance suite of AI-powered productivity tools including content generation, code analysis, image creation, and text-to-speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
