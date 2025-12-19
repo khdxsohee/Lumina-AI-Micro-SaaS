@@ -35,4 +35,4 @@ Lumina AI is a high-performance, full-stack micro-SaaS dashboard powered by Goog
 - **Responsive**: Optimized for everything from mobile handhelds to ultra-wide displays.
 
 ---
-*Created by a Senior Frontend Architect.* "khdxsohee"
+*Created by* "khdxsohee"
