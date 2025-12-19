@@ -19,6 +19,9 @@ Lumina AI is a high-performance, full-stack micro-SaaS dashboard powered by Goog
 - **AI Engine**: Google Generative AI (Gemini API)
 - **State Management**: React Hooks (Functional Architecture)
 
+## Screenshots
+<img width="1366" height="589" alt="image" src="https://github.com/user-attachments/assets/ed5b39f8-366e-46fe-8584-30a5ddf39083" />
+
 ## 📦 Getting Started
 
 1. Ensure you have your `API_KEY` configured in your environment.
@@ -32,4 +35,4 @@ Lumina AI is a high-performance, full-stack micro-SaaS dashboard powered by Goog
 - **Responsive**: Optimized for everything from mobile handhelds to ultra-wide displays.
 
 ---
-*Created by a Senior Frontend Architect.*
+*Created by a Senior Frontend Architect.* "khdxsohee"
