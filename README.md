@@ -17,7 +17,7 @@ Lumina AI is a high-performance, full-stack micro-SaaS dashboard powered by Goog
 - **Language**: TypeScript (Strict Mode)
 - **Styling**: Tailwind CSS (Mobile-first responsive design)
 - **AI Engine**: Google Generative AI (Gemini API)
-- **State Management**: React Hooks (Functional Architecture)
+- **State Management**: React Hooks (Functional Architecture).
 
 ## Screenshots
 <img width="1366" height="589" alt="image" src="https://github.com/user-attachments/assets/ed5b39f8-366e-46fe-8584-30a5ddf39083" />
